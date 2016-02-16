@@ -1,2 +1,0 @@
-# prueba
-estamos probando GIT
